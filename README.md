@@ -1,2 +1,29 @@
 # camlenscombi
 Virtual reality team project
+
+Photography enthusiasts care about photographic quality, and camera lovers care about the appearance of assembly cameras, each of which are made up of a camera body and a lens. It is important to this segment of people that the pictures they take are of a high standard, and that the combination of a camera body and a lens is pleasing to the eye.
+
+The conventional approach to finding the perfect camera in photographic ability and overall appearance is to browse camera websites online and imagine what a camera and a lens look like, which we call the web-surfing method, or to try out different camera bodies and lenses in a camera shop, which we shall call the experimentation method.
+
+However, the drawbacks of the web-surfing method are that it is time-consuming to search the Internet when all one can find are pictures of cameras and lenses only, when 360-degree views of assembled cameras are impossible to look for, and there is no way of previewing the photographic ability of assembled cameras. All the decisions one can make about the cameras and lenses chosen are based on human imagination and we know that there is a limitation as to the amount of information human minds can perceive and process at a time.
+
+The disadvantage of the experimentation method is that it is embarrassing to try out different cameras and lenses in a shop if one eventually decides not to buy anything in the end. Moreover, customers cannot take photographs of the cameras or lenses, or combine these two devices to take photographs in the shop, which further inconveniences and frustrates potential buyers in their search for the perfect cameras and lenses to suit their purposes. The necessity of being able to try out cameras and lenses is also important for making wise purchases especially since photography may be a hobby or a career, and in either case, it is desirable to optimize one’s budget and time to get the most satisfaction out of honing this skill or selecting the right photographic devices.
+
+Now that we have presented a dilemma that has been haunting photographers nowadays, we have decided to look into virtual reality as a problem-solving tool and explore what virtual reality has to offer in the art of combining cameras and lenses for photographic and aesthetic purposes.
+
+In other words, the application described in this report aims to provide a third method for photography enthusiasts and camera lovers to find the perfect camera for their purposes. It aims to give these people a changing room-like space for them to try out different combinations of cameras and lenses in their quest to find their desired match, preview the camera in 360 degrees and even preview the photographic quality of the assembled camera. Most importantly, they will not feel pressured to have to buy anything or be mindful of handling the camera and lenses carefully; the application belongs to the domain of virtual reality and so it is a robust tool for anyone who knows how to operate a computing device with a keyboard such as a computer. Users can take as many pictures and reassemble the camera as many times as they want to, with the advantage of saving time spent fantasizing about cameras and lenses (because they can combine correctly scaled cameras and lenses in the application) and without the fear of embarrassment or getting askance glances from fellow photographers in a camera shop.
+
+Here each instance of “user”, singular or plural (users), refers to the end user of the application described in this report.
+
+The prototype associated with this project aims to allows users to:
+Have a comfortable virtual environment (showroom) to enjoy selecting the lens and camera.
+Have different choices of cameras and lenses to select from in the showroom in #1.
+Preview the photographic effect of their selection in #2 in 360˚ virtual surroundings.
+
+The first two objectives were fundamentally met. The emphasis is on “fundamentally met” because while the prototype has the mentioned functionality, there are still some limitations in the (virtual) assembly of the camera and lens, the settings of the assembled camera, the freedom in moving the camera around, the ability to take photos and the immersiveness, and hence the comfort, provided by the application.
+
+Although photos could be taken in the Unity application built, users can only preview them outside the application as of this stage of development.
+
+The notion of virtual reality photography (VR photography) is a recently booming area of research. It includes the creation of 360-degree panoramic photographs and movies. However, this is not the main focus of this report, and it is not true virtual reality either. This report focuses on improving the experience of traditional photography through a basic implementation of virtual reality, namely through the sense of vision.
+
+(Speaking of budgeting for photography and camera/lens purchases, the currently prohibitive cost of delving into high-quality photography limits its scope to a more financially secure segment of the population, therefore making it inaccessible to a wider range of people. It would be instructive for people, regardless of their socioeconomic standing or age, to benefit from a lower entry barrier into high-quality photography, as well as learning about how combinations of cameras and lenses affect the look and feel of the assembled cameras. This is because photography is a storytelling tool in the sense that advertisements and learning materials often include photographs, and the ability to manipulate photographs using software such as PhotoShop is also an in-demand design skill. Therefore a derivative objective of this application is to expose the world of high-quality photography to people who are less familiar with it and empower them to tell their stories through photographs using the best assembled cameras available.)
